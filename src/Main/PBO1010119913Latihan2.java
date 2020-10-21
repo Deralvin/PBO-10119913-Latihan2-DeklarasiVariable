@@ -9,8 +9,10 @@ package Main;
  *
  * @author Muhammad Alvin Rizqi Ramadhan
  * @author NIM 10119913
+ * Kelas : IF10K
+ * Deskripsi Program : Deklarasi dan Pengaksesan variable
  */
-public class Main {
+public class PBO1010119913Latihan2 {
     
     //memberi nilai ke variable
     
